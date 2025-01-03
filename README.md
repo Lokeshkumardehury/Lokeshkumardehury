@@ -11,6 +11,11 @@ solving problems with a team. Love to work on
 different challenging projects.
 </h6>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Lokeshkumardehury&label=Profile%20views&color=0e75b6&style=flat" alt="Lokeshkumardehury" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imlnr" alt="imlnr" /></a> </p>
+
+<img align="right" src="https://github.com/imlnr/software-kalaakar-5678/assets/82680213/96624e8d-a387-41c3-ad7c-1fd6e99cdba1" width="40%" style="border-radius: 10px;" />
+
+<p align="left"> <a href="https://twitter.com/_im_lnr" target="blank"><img src="https://img.shields.io/twitter/follow/_im_lnr?logo=twitter&style=for-the-badge" alt="_im_lnr" /></a> </p>
 
 - 🌱 I’m currently learning React js
 
