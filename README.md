@@ -13,7 +13,7 @@ different challenging projects.
 
 - 🌱 I’m currently learning React js
 
-- 💬 Ask me about Python, Django,
+- 💬 Ask me about HTML, CSS, JavaScript, React, Python, Django
 
 - 📫 How to reach me lokeshkumardehury@gmail.com
 
