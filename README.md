@@ -10,6 +10,7 @@ Looking forward to working with new technologies and
 solving problems with a team. Love to work on
 different challenging projects.
 </h6>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Lokeshkumardehury&label=Profile%20views&color=0e75b6&style=flat" alt="Lokeshkumardehury" /> </p>
 
 - 🌱 I’m currently learning React js
 
