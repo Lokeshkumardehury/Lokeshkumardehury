@@ -11,12 +11,12 @@ solving problems with a team. Love to work on
 different challenging projects.
 </h6>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Lokeshkumardehury&label=Profile%20views&color=0e75b6&style=flat" alt="Lokeshkumardehury" /> </p>
-<img align="right" src="https://github.com/imlnr/software-kalaakar-5678/assets/82680213/96624e8d-a387-41c3-ad7c-1fd6e99cdba1" width="40%" style="border-radius: 10px;" />
+<img align="right" src="https://github.com/imlnr/software-kalaakar-5678/assets/82680213/96624e8d-a387-41c3-ad7c-1fd6e99cdba1" width="30%" style="border-radius: 10px;" />
 
 
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about HTML, CSS, JavaScript, React, Python, Django
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Python, Django**
 
 - 📫 How to reach me lokeshkumardehury@gmail.com
 - ⚡ Fun fact: I enjoy solving complex problems with code!
@@ -29,7 +29,6 @@ different challenging projects.
 <a href="https://www.instagram.com/lokesh_kumar_6969/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lokeshkumardehury" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/imlnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imlnr" height="30" width="40" /></a> -->
 </p>
-<br/>
 <br/>
 <br/>
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
