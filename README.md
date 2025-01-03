@@ -29,7 +29,9 @@ different challenging projects.
 <a href="https://www.instagram.com/lokesh_kumar_6969/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lokeshkumardehury" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/imlnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imlnr" height="30" width="40" /></a> -->
 </p>
-
+<br/>
+<br/>
+<br/>
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
