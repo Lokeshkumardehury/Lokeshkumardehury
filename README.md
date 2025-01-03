@@ -16,6 +16,7 @@ different challenging projects.
 - 💬 Ask me about HTML, CSS, JavaScript, React, Python, Django
 
 - 📫 How to reach me lokeshkumardehury@gmail.com
+- ⚡ Fun fact: I enjoy solving complex problems with code!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
