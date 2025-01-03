@@ -11,7 +11,7 @@ solving problems with a team. Love to work on
 different challenging projects.
 </h6>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Lokeshkumardehury&label=Profile%20views&color=0e75b6&style=flat" alt="Lokeshkumardehury" /> </p>
-<img align="right" src="https://github.com/Lokeshkumardehury/software-kalaakar-5678/assets/82680213/96624e8d-a387-41c3-ad7c-1fd6e99cdba1" width="35%" style="border-radius: 10px;" />
+<img align="right" src="https://github.com/imlnr/software-kalaakar-5678/assets/82680213/96624e8d-a387-41c3-ad7c-1fd6e99cdba1" width="35%" style="border-radius: 10px;" />
 
 
 - 🌱 I’m currently learning **Node js**
