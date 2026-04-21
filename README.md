@@ -21,12 +21,12 @@
 
 ## ⚒️ Tech Stack
 
-### 💻 Development
+### 💻 Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,express" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,django" />
 </div>
 
-### 🗄️ Database
+### 🗄️ Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </div>
@@ -35,6 +35,14 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 </div>
+<p align="center">
+  NumPy • Pandas • Matplotlib
+</p>
+
+### 🤖 AI / LLM (Beginner)
+<p align="center">
+  LangChain • AI Agents (Learning Stage)
+</p>
 
 ### 🛠 Tools & Platforms
 <div align="center">
