@@ -44,7 +44,7 @@
 ---
 
 ## 📂 Projects
-- 🔹 Full Stack Web Applications (React + Django)
+- 🔹 Full Stack Web Applications (Python + Django)
 - 🔹 REST APIs using Django
 - 🔹 Backend Projects with Node.js (Learning)
 - 🔹 Data Analysis Projects (Pandas & Matplotlib)
